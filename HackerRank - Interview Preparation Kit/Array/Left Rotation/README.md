@@ -27,7 +27,9 @@ The second line contains <i>n</i> space-separated integers, each an <i>n[i]</i>.
 1 2 3 4 5
 ```
 <br/>
+
 <b>Sample Output</b><br/>
 ```
-5 1 2 3 4
+1 2 3 4 5
 ```
+<br/>
