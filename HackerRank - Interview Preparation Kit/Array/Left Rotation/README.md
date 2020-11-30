@@ -30,6 +30,6 @@ The second line contains <i>n</i> space-separated integers, each an <i>n[i]</i>.
 
 <b>Sample Output</b><br/>
 ```
-1 2 3 4 5
+3 4 5 1 2
 ```
 <br/>
